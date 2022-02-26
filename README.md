@@ -1,5 +1,5 @@
 ### Fala aí, sou o Mateus Sabroza
--Atualmente estou estudando fullstack no senai, estou no primeiro periodo de engenharia de software, então tem alguns repositorios que são atividades do curso, os que não são podem ser atividades da Digital Inovation One ou um projeto pessoal. 
+-Atualmente estou estudando fullstack no senai, vou entrar no primeiro período de engenharia matemática, pretendo me expecializar em IA usando essa matemática, então tem alguns repositorios que são atividades do curso, os que não são podem ser atividades da Digital Inovation One ou um projeto pessoal. 
 <div align="inline_blockr">
   <a href="https://www.linkedin.com/in/mateus-sabroza-b50540222/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussabroza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
