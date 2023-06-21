@@ -1,5 +1,5 @@
 ### Fala aí, sou o Mateus Sabroza
--Atualmente estou no segundo período de engenharia matemática, pretendo me expecializar em IA usando essa matemática, então tem alguns repositorios que são atividades do curso, os que não são podem ser atividades da Digital Inovation One ou um projeto pessoal. 
+-Atualmente estou no terceiro período de engenharia matemática, pretendo me especializar em IA usando essa matemática, então tem alguns repositorios que são atividades do curso, os que não são podem ser atividades da Digital Inovation One ou um projeto pessoal. 
 
 
   <a href="https://instagram.com/mateussabroza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
