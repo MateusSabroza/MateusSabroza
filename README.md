@@ -1,5 +1,5 @@
 ### Fala aí, sou o Mateus Sabroza
--Atualmente, estou no quinto período de Engenharia Matemática e tenho a intenção de aprimorar-me em Engenharia de Dados. 
+-Estudante de BI. 
 
 
   <a href="https://instagram.com/mateussabroza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
